@@ -1,6 +1,6 @@
 # Hi there, I'm [Mamadi]! 👋
 
-![Banner Image](md.jpg)
+![Banner Image]()
 
 ## About Me 🚀
 
