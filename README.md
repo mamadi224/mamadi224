@@ -1,16 +1,16 @@
-# Hi there, I'm [Mamadi]! 👋
+# Hi there, I'm [Your Name]! 👋
 
+![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Backend Developer]** with experience in **[Python,HTML,CSS,JS,]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Backend Developer]** with experience in **[PYTHON,HTML,CSS,JC]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Backend Development at ALX]**
-- 🔭 Working on: **[Finacial technology FINTECH APP]**![md](https://github.com/user-attachments/assets/93506732-43a0-4a38-82be-5096fb7f0748)
-
-- 🌍 Languages: **[PHYTON, FRENCH & ANGLISH ]**
-- 📫 How to reach me: **[kilawanediawara2000@gmail.com,]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **[Backend developement at ALX**
+- 🔭 Working on: **[Financial technology FINTECH]**
+- 🌍 Languages: **[PYTHON, French & Anglish]**
+- 📫 How to reach me: **[kilawanediawara2000@gmail.com]**
+- ⚡ Fun fact: **[I can dive deep into coding for hours — but somehow, I still need three reminders to drink water]**
 
 ## My Skills 🧠
 
