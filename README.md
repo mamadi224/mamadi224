@@ -1,13 +1,14 @@
 # Hi there, I'm [Mamadi]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](md.jpg)
 
 ## About Me 🚀
 
 I'm a passionate **[Backend Developer]** with experience in **[Python,HTML,CSS,JS,]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Backend Development at ALX]**
-- 🔭 Working on: **[Finacial technology FINTECH APP]**
+- 🔭 Working on: **[Finacial technology FINTECH APP]**![md](https://github.com/user-attachments/assets/93506732-43a0-4a38-82be-5096fb7f0748)
+
 - 🌍 Languages: **[PHYTON, FRENCH & ANGLISH ]**
 - 📫 How to reach me: **[kilawanediawara2000@gmail.com,]**
 - ⚡ Fun fact: **[a fun fact about yourself]**
